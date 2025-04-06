@@ -1,5 +1,5 @@
 ## 📌 Description
-**Rock Paper Scissors Image Classification** is a computer vision model that can recognize images between rock, paper, or scissors. In this model, I use CNN (Convolutional Neural Network) as the algorithm to train the images.
+**Rock Paper Scissors Image Classification** is a computer vision model that can recognize images between rock, paper, or scissors. In this model, I use a CNN (Convolutional Neural Network) as the algorithm to train the images.
 
 ## 🚀 Features
 - Upload an image to recognize whether it is categorized as rock, paper, or scissors.
